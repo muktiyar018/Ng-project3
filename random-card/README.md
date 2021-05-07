@@ -1,3 +1,4 @@
+![IMG_20210507_154606_942](https://user-images.githubusercontent.com/65940447/117435321-5b0e3d80-af4b-11eb-9d01-c81d1c9c752a.jpg)
 # RandomCard
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.11.
